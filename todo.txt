@@ -1,0 +1,16 @@
+Today Todo:-
+
+1st Step:- Today we will learn about dynamic Routing 
+2nd Step:- how to get data coming from frontend at backend route
+
+3rd Step:- setting up parsers for form (done)
+ans:- app.use(express.json());
+app.use(express.urlencoded({extended: true})); this lines are called parsers
+
+4th step:- Setting up EJS pages
+ans:-EJS mean the front-end it is like html 
+5th step:- Setup up EJS  for View engine
+
+
+
+6th step:- setting up public static files
